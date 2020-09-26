@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        Capstone Project
+# Name:        module1
 # Purpose:
 #
 # Author:      Grant Yao and Jerry He
