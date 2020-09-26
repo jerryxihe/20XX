@@ -1,0 +1,15 @@
+Beta Testing Log
+Daniel - June 7th, 2:45 p.m.
+ - weird hitboxes, aliens could collide with corners of ship sprite rectangle
+ - fixed by splitting ship sprite into 3 parts for more accurate hitboxes
+
+Keagan, Adam, Lachlan, Xavier - June 9th, 5:30 p.m.
+ - difficulty level
+ - wanted more variety in game
+ - fixed by reducing number of aliens and changing speeds/paths of aliens
+ - added boss fight
+
+Hua Wang - June 10th, 10:00 a.m.
+ - crashed after exiting pygame
+ - fixed by adding breaks and rearranging code
+
